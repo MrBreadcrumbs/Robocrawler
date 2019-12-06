@@ -8,7 +8,10 @@ curl
 ./Robocrawler.bash
 
 # TODO:
-threading\n
-clean up output\n
-screenshot any 200 response\n
+threading
+
+clean up output
+
+screenshot any 200 response
+
 subdomain bruteforce inclusion
